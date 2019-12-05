@@ -28,7 +28,7 @@ Registration info and codalab link
 - Lukáš Burget, Brno University of Technology (BUT), Czech Republic
 
 
-![](aut_logo_b&w_v1)
-![](nec_logo)
-![](logo_CRIM_300dpi)
-![](but_logo)
+![](./aut_logo_b&w_v1.png)
+![](./nec_logo.png)
+![](./logo_CRIM_300dpi.jpg)
+![](./but_logo.jpg)
