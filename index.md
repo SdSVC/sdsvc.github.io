@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to SdSVC 2020
 
-You can use the [editor on GitHub](https://github.com/SdSVC/SdSVC.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SdSVC is intended to push the field towards...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Schedule
 
-### Markdown
+- December, 2019          Release of Evaluation plan
+- December, 2019          Evaluation platform open
+- December, 2019          Release of train, development and evaluation sets 
+- February, 2019          Challenge deadline
+- Early March, 2020       Post-challenge evaluation
+- 30 March, 2020          Interspeech submission deadline
+- 14/18 Sep, 2020         SdSV challenge 2020 special session at Interspeech
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Workshop
 
-```markdown
-Syntax highlighted code block
+A workshop will be held to announce the challenge winners as well as for presentation of the most novel submissions to ScSVC 2020. Registration details coming up soon.
 
-# Header 1
-## Header 2
-### Header 3
+### Register
 
-- Bulleted
-- List
+Registration info and codalab link
 
-1. Numbered
-2. List
+### Organizers
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SdSVC/SdSVC.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Hossein Zeinali, Amirkabir University of Technology (AUT), Tehran, Iran
+- Kong-Aik Lee, NEC, Japan
+- Jahangir Alam, Computer Research Institute of Montreal (CRIM), Canada
+- Lukáš Burget, Brno University of Technology (BUT), Czech Republic
