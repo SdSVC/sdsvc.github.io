@@ -27,5 +27,5 @@ Registration info and codalab link
 - Jahangir Alam, Computer Research Institute of Montreal (CRIM), Canada
 - Lukáš Burget, Brno University of Technology (BUT), Czech Republic
 
-<img src="./aut_logo_b&w_v1.png" width="150"> <img src="./nec_logo.png" width="150">
-<img src="./logo_CRIM_300dpi.jpg" width="150"> <img src="./but_logo.jpg" width="150">
+<img src="./aut_logo_b&w_v1.png" width="250"> <img src="./nec_logo.png" width="250" heigth="250">
+<img src="./logo_CRIM_300dpi.jpg" width="250"> <img src="./but_logo.jpg" width="250">
