@@ -26,3 +26,9 @@ Registration info and codalab link
 - Kong-Aik Lee, NEC, Japan
 - Jahangir Alam, Computer Research Institute of Montreal (CRIM), Canada
 - Lukáš Burget, Brno University of Technology (BUT), Czech Republic
+
+
+![](aut_logo_b&w_v1)
+![](nec_logo)
+![](logo_CRIM_300dpi)
+![](but_logo)
