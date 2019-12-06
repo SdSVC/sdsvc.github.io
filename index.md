@@ -1,4 +1,4 @@
-[Home](#Welcome-to-SdSVC-2020)    [Workshop](#Workshop)    [Registration](#Register)    [Organizers](#Organizers)
+[Home](#welcome-to-sdsvc-2020)    [Workshop](#workshop)    [Registration](#register)    [Organizers](#organizers)
 
 ## Welcome to SdSVC 2020
 
