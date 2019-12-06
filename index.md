@@ -1,7 +1,7 @@
 [Home](#Welcome-to-SdSVC-2020)    [Workshop](#Workshop)    [Registration](#Register)    [Organizers](#Organizers)
 
 ## Welcome to SdSVC 2020
-====
+----
 
 SdSVC is intended to push the field towards...
 
