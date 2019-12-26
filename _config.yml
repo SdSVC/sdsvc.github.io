@@ -1,5 +1,32 @@
 #theme: jekyll-theme-cayman
 
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jemoji
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "SdSV Challenge 2020" # Site name or title, also used in jekyll-seo-tag
+#logo: "/images/VOiCES_logo.png" # Site logo, also used in jekyll-seo-tag
+description: "The webpage for Short-duration Speaker Verification Challenge 2020." # Site description and default description, also used in jekyll-seo-tag
+#url: "https://lab41.org" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/sdsvc.github.io"
+email: "sdsvc2020@gmail.com"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+#avatarurl: "/assets/speech.ico" # "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+# google_analytics: ''
+# service_worker: false # Will turn off the service worker if set to false
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
 navigation_header:
   Home: /
   Download: /downloads/
