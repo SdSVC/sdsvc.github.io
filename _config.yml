@@ -1,1 +1,12 @@
 theme: jekyll-theme-cayman
+
+navigation_header:
+  Home: /
+  Download: /downloads/
+  Rooms: /rooms/
+  Reading: /reading/
+  Events: /blog/
+  Organizers: /organizers/
+  Links: /links/
+  Search: /search/
+  Mailing List: ./mailing_list/
