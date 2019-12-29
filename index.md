@@ -1,10 +1,10 @@
 ---
 title: Description
 feature_text: |
-  ## Introducing the VOiCES Dataset
-  Voices Obscured in Complex Environmental Settings
+  ## Short-duration Speaker Verification (SdSV) Challenge 2020
+  Evaluate New Technologies in Short Duration Senarios
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "A short description of the VOiCES corpus"
+excerpt: "A Short Description of the SdSV Challenge 2020"
 aside: True
 ---
 [Home](#welcome-to-sdsvc-2020)    [Workshop](#workshop)    [Registration](#register)    [Organizers](#organizers)
