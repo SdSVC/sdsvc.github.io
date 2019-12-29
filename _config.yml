@@ -1,5 +1,18 @@
 remote_theme: daviddarnes/alembic
 
+# 1. Files excluded from Jekyll builds
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
 # 2. Installed Gems
 plugins:
 - jekyll-remote-theme
@@ -10,9 +23,15 @@ plugins:
 - jekyll-redirect-from
 - jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
 
-# 7. Site settings
+# 3. Gem settings
+paginate: 3 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "SdSV Challenge 2020" # Site name or title, also used in jekyll-seo-tag
