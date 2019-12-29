@@ -37,3 +37,5 @@ navigation_header:
   Links: /links/
   Search: /search/
   Mailing List: ./mailing_list/
+
+theme: jekyll-theme-cayman
