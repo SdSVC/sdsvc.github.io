@@ -28,15 +28,19 @@ email: "sdsvc2020@gmail.com"
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
+# 9. Site navigation
 navigation_header:
-  Home: /
-  Download: /downloads/
-  Rooms: /rooms/
-  Reading: /reading/
-  Events: /blog/
-  Organizers: /organizers/
-  Links: /links/
-  Search: /search/
-  Mailing List: ./mailing_list/
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
 
 
