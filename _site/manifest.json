@@ -1,0 +1,9 @@
+{
+  "lang": "en-GB",
+  "name": "SdSV Challenge 2020",
+  "short_name": "SdSVChallenge2020",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}

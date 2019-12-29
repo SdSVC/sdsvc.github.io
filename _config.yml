@@ -1,7 +1,8 @@
-#theme: jekyll-theme-cayman
+remote_theme: daviddarnes/alembic
 
 # 2. Installed Gems
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -38,4 +39,4 @@ navigation_header:
   Search: /search/
   Mailing List: ./mailing_list/
 
-theme: jekyll-theme-cayman
+
