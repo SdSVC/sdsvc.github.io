@@ -7,12 +7,14 @@ feature_image: "https://i.picsum.photos/id/986/1300/400.jpg"
 excerpt: "A short description of the SdSV Challenge 2020 "
 aside: True
 ---
+### Main Organizers
+---
 ##### Hossein Zeinali
 <table border="0">
  <tr>
     <td>
     Amirkabir University of Technology, Iran. <br>
-    Assistant Professor <br>
+    Assistant Professor <br><br>
     </td>
     <td>
     <img align="right" width="210" src="/aut_logo_b&w_v1.png">
@@ -25,7 +27,7 @@ aside: True
  <tr>
     <td>
     NEC Corporation, Japan. <br>
-    Senior Principal Researcher <br>
+    Senior Principal Researcher <br><br>
     </td>
     <td>
     <img align="right" width="140" src="/nec_logo.png">
@@ -38,7 +40,7 @@ aside: True
  <tr>
     <td>
     CRIM, Canada. <br>
-    Researcher <br>
+    Researcher <br><br>
     </td>
     <td>
     <img align="right" width="150" src="/logo_CRIM_300dpi.jpg">
@@ -51,7 +53,7 @@ aside: True
  <tr>
     <td>
     Brno University of Technology, Czech Republic. <br>
-    Associate Professor <br>
+    Associate Professor <br><br>
     </td>
     <td>
     <img align="right" width="180" src="/but_logo.jpg">
