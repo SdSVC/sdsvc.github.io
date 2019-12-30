@@ -56,7 +56,7 @@ navigation_header:
 - title: Blog
   url: /blog/
 - title: Organizers
-  url: /organizers/
+  url: /organizers
 - title: Search
   url: /search/
 - title: Fork Alembic
