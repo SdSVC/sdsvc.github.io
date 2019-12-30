@@ -9,6 +9,8 @@
 # 8. Site favicons & manifest icons
 # 9. Site navigation
 
+remote_theme: daviddarnes/alembic
+
 # 1. Files excluded from Jekyll builds
 exclude:
 - README.md
@@ -24,6 +26,7 @@ exclude:
 
 # 2. Installed Gems
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
@@ -136,3 +139,4 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   Twitter: "#0d94e7"
   facebook: "#3B5998"
   Email: true
+
