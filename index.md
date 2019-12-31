@@ -1,14 +1,12 @@
 ---
-title: Description
+title: Challenge Description
 feature_text: |
   ## Short-duration Speaker Verification (SdSV) Challenge 2020
   Evaluate New Technologies in Short Duration Senarios
-feature_image: "https://picsum.photos/1300/400?image=988"
-excerpt: "A Short Description of the SdSV Challenge 2020"
+feature_image: "https://picsum.photos/1300/400?image=866"
+excerpt: "A Short Description of SdSV Challenge 2020"
 aside: True
 ---
-[Home](#welcome-to-sdsvc-2020)    [Workshop](#workshop)    [Registration](#register)    [Organizers](#organizers)
-----
 
 ## Welcome to SdSVC 2020
 

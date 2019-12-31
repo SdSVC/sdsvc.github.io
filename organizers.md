@@ -3,7 +3,7 @@ title: Organizers
 feature_text: |
   ## Organizers and Contact Information
   SdSV Challenge 2020
-feature_image: "https://i.picsum.photos/id/986/1300/400.jpg"
+feature_image: "https://picsum.photos/1300/400?image=988"
 excerpt: "A short description of the SdSV Challenge 2020 "
 aside: True
 ---
