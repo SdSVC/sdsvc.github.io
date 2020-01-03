@@ -124,9 +124,9 @@ navigation_header:
 - title: Search
   url: /search/
 
-#navigation_footer:
-#- title: Created by Hossein Zeinali
-#  url: https://darn.es
+navigation_footer:
+- title: SdSV Challenge 2020
+  url: https://sdsvc.github.io
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
 #  Twitter: https://twitter.com/DavidDarnes

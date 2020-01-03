@@ -3,6 +3,8 @@ title: false
 styles: true
 ---
 
+@import "alembic";
+
 .typeset hr {
  background-image:linear-gradient(to bottom, transparent 50%, #a8adac 50%);
  background-position:0 50%;
@@ -14,4 +16,3 @@ styles: true
  padding-top:0.3rem
 }
 
-@import "alembic";

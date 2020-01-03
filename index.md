@@ -19,17 +19,75 @@ The evaluation dataset used for the challenge is drawn from the recently release
 [1] H. Zeinali, L. Burget, J. Cernocky, A multi purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
 
 ---
-### Schedule
-- Early January, 2020          Release of evaluation plan
-- Early January, 2020          Evaluation platform open
-- Early January, 2020          Release of train, development and evaluation sets 
-- February 29, 2020           Challenge deadline
-- Early March, 2020           Post-challenge evaluation
-- March 30, 2020              Interspeech submission deadline
-- September 14-18, 2020         SdSV Challenge 2020 special session at Interspeech
+#### Schedule
+<table border="0">
+ <tr>
+    <td>
+    Early January, 2020
+    </td>
+    <td>
+    Release of evaluation plan
+    </td>
+ </tr>
+ <tr>
+    <td>
+    Early January, 2020
+    </td>
+    <td>
+    Evaluation platform open
+    </td>
+ </tr>
+ <tr>
+    <td>
+    Early January, 2020
+    </td>
+    <td>
+    Release of train, development and evaluation sets
+    </td>
+ </tr>
+ <tr>
+    <td>
+    February 29, 2020 
+    </td>
+    <td>
+    Challenge deadline
+    </td>
+ </tr>
+ <tr>
+    <td>
+    Early March, 2020
+    </td>
+    <td>
+    Post-challenge evaluation
+    </td>
+ </tr>
+ <tr>
+    <td>
+    March 30, 2020 
+    </td>
+    <td>
+    Interspeech submission deadline
+    </td>
+ </tr>
+ <tr>
+    <td>
+    September 14-18, 2020
+    </td>
+    <td>
+    SdSV Challenge 2020 special session at Interspeech
+    </td>
+ </tr>
+</table>
 
 ---
-## Sponsors
+### Prizes
+There will be three cash prizes for each task. The winners will be selected based on the results of the primary systems on the evaluation subset. In addition to the cash prize, each winner will receive a certificate for their achievement. The cash prizes are as follow:
+- Rank 1: 500 EUR
+- Rank 2: 300 EUR
+- Rank 3: 100 EUR
+
+---
+### Sponsors
 - Sharif DeepMine Ltd.
 - Computer Research Institute of Montreal (CRIM)
 - Phonexia
