@@ -19,7 +19,8 @@ The evaluation dataset used for the challenge is drawn from the recently release
 [1] H. Zeinali, L. Burget, J. Cernocky, A multi purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
 
 ---
-#### Schedule
+### Schedule
+<br>
 <table border="0">
  <tr>
     <td>
@@ -78,6 +79,7 @@ The evaluation dataset used for the challenge is drawn from the recently release
     </td>
  </tr>
 </table>
+<br>
 
 ---
 ### Prizes
