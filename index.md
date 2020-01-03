@@ -20,7 +20,6 @@ The evaluation dataset used for the challenge is drawn from the recently release
 
 ---
 ### Schedule
-<br>
 <table border="0">
  <tr>
     <td>
@@ -78,8 +77,9 @@ The evaluation dataset used for the challenge is drawn from the recently release
     SdSV Challenge 2020 special session at Interspeech
     </td>
  </tr>
+ <tr><td> &nbsp; </td></tr>
 </table>
-<br>
+
 
 ---
 ### Prizes
