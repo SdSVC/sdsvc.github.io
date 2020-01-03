@@ -3,4 +3,15 @@ title: false
 styles: true
 ---
 
+.typeset hr {
+ background-image:linear-gradient(to bottom, transparent 50%, #a8adac 50%);
+ background-position:0 50%;
+ background-repeat:repeat-x;
+ background-size:100% 0.15rem;
+ border:0;
+ margin:0;
+ padding-bottom:0.3rem;
+ padding-top:0.3rem
+}
+
 @import "alembic";
