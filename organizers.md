@@ -17,7 +17,7 @@ aside: True
     Assistant Professor <br><br>
     </td>
     <td>
-    <img align="right" width="210" src="/aut_logo_b&w_v1.png">
+    <img align="right" width="210" src="/images/aut_logo_b&w_v1.png">
     </td>
  </tr>
 </table>
@@ -30,7 +30,7 @@ aside: True
     Senior Principal Researcher <br><br>
     </td>
     <td>
-    <img align="right" width="140" src="/nec_logo.png">
+    <img align="right" width="140" src="/images/nec_logo.png">
     </td>
  </tr>
 </table>
@@ -43,7 +43,7 @@ aside: True
     Researcher <br><br>
     </td>
     <td>
-    <img align="right" width="150" src="/logo_CRIM_300dpi.jpg">
+    <img align="right" width="150" src="/images/logo_CRIM_300dpi.jpg">
     </td>
  </tr>
 </table>
@@ -56,7 +56,7 @@ aside: True
     Associate Professor <br><br>
     </td>
     <td>
-    <img align="right" width="180" src="/but_logo.jpg">
+    <img align="right" width="180" src="/images/but_logo.jpg">
     </td>
  </tr>
 </table>
