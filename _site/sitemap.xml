@@ -30,4 +30,12 @@
 <url>
 <loc>http://localhost:4000/workshop/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/SdSV_Challenge_Evaluation_Plan.pdf</loc>
+<lastmod>2020-01-03T18:42:28+00:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/SdSV_Challenge_License_Agreement.pdf</loc>
+<lastmod>2020-01-03T18:15:11+00:00</lastmod>
+</url>
 </urlset>
