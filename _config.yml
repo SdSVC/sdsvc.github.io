@@ -115,8 +115,8 @@ navigation_header:
   url: /
 - title: Organizers
   url: /organizers/
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 - title: Registration
   url: /registration/
 - title: Workshop
