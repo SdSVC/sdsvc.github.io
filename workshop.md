@@ -2,7 +2,7 @@
 title: Workshop
 feature_text: |
   ## The SdSV Challenge 2020 Workshop
-feature_image: "https://picsum.photos/1300/400?image=988"
+feature_image: "https://picsum.photos/1300/400?image=866"
 excerpt: "A short description of the SdSV Challenge 2020 "
 aside: True
 ---
