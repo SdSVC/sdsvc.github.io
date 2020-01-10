@@ -25,7 +25,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
 <table border="0">
  <tr>
     <td>
-    Early January, 2020
+    January 10, 2020
     </td>
     <td>
     Release of evaluation plan
@@ -33,7 +33,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    Early January, 2020
+    January 15, 2020
     </td>
     <td>
     Evaluation platform open
@@ -41,7 +41,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    Early January, 2020
+    January 10, 2020
     </td>
     <td>
     Release of train, development and evaluation sets
@@ -49,7 +49,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    February 29, 2020 
+    March 13, 2020 
     </td>
     <td>
     Challenge deadline
@@ -57,7 +57,15 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    Early March, 2020
+    March 20, 2020 
+    </td>
+    <td>
+    Release of results
+    </td>
+ </tr>
+ <tr>
+    <td>
+    September 14, 2020
     </td>
     <td>
     Post-challenge evaluation
