@@ -2,11 +2,11 @@
 title: Workshop
 feature_text: |
   ## The SdSV Challenge 2020 Workshop
-feature_image: "https://picsum.photos/1300/400?image=988"
+feature_image: "https://picsum.photos/1300/400?image=866"
 excerpt: "A short description of the SdSV Challenge 2020 "
 aside: True
 ---
 
-A workshop will be held to announce the challenge winners as well as for presentation of the most novel submissions to the SdSV Challenge 2020. Registration details coming up soon.
+A special session will be held in Interspeech 2020 for the presentation of papers submitted to the SdSV Challenge 2020. The winners of the challenge will be announced during Interspeech 2020. Registration details coming up soon.
 
 

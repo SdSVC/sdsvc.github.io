@@ -18,14 +18,14 @@ The evaluation dataset used for the challenge is drawn from the recently release
 
 [1] H. Zeinali, L. Burget, J. Cernocky, A multi purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
 
-The full challenge evaluation plane version 1.0 can be found in [this link](/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com].
+The full challenge evaluation plane version 1.0 can be found in [this link](/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com).
 
 ---
 ### Schedule
 <table border="0">
  <tr>
     <td>
-    Early January, 2020
+    January 10, 2020
     </td>
     <td>
     Release of evaluation plan
@@ -33,7 +33,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    Early January, 2020
+    January 15, 2020
     </td>
     <td>
     Evaluation platform open
@@ -41,7 +41,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    Early January, 2020
+    January 10, 2020
     </td>
     <td>
     Release of train, development and evaluation sets
@@ -49,7 +49,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    February 29, 2020 
+    March 13, 2020 
     </td>
     <td>
     Challenge deadline
@@ -57,7 +57,15 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    Early March, 2020
+    March 20, 2020 
+    </td>
+    <td>
+    Release of results
+    </td>
+ </tr>
+ <tr>
+    <td>
+    September 14, 2020
     </td>
     <td>
     Post-challenge evaluation
@@ -92,9 +100,9 @@ There will be three cash prizes for each task. The winners will be selected base
 
 ---
 ### Sponsors
-- Sharif DeepMine Ltd.
-- Computer Research Institute of Montreal (CRIM)
-- Phonexia
+- [Sharif DeepMine Ltd.](http://deepmine.ir/)
+- [Computer Research Institute of Montreal (CRIM)](https://www.crim.ca/en)
+- [Phonexia Ltd.](https://www.phonexia.com)
 
 
 

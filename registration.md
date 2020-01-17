@@ -3,7 +3,7 @@ title: Registration
 feature_text: |
   ## Challenge Registration
   The way to register!
-feature_image: "https://picsum.photos/1300/400?image=988"
+feature_image: "https://picsum.photos/1300/400?image=866"
 excerpt: "A short description of the SdSV Challenge 2020 "
 aside: True
 ---
@@ -14,8 +14,8 @@ The challenge leaderboards are hosted at [CodaLab](https://codalab.org/). Each t
 
 As explained in the challenge description, there are two separate tasks in the challenge. So, there is a separate competition webpage for each task. Participants can register in just one competition or both. If you are going to participate in both tasks, we kindly ask you to use the same user account (team name) to participate in both tasks. The competition pages at CodaLab are:
 
-- [Task 1, Text-Dependent Speaker Verification](https://competitions.codalab.org/competitions/22222)
-- [Task 2, Text-Independent Speaker Verification](https://competitions.codalab.org/competitions/22223)
+- [Task 1, Text-Dependent Speaker Verification](https://competitions.codalab.org/competitions/22393)
+- [Task 2, Text-Independent Speaker Verification](https://competitions.codalab.org/competitions/22472)
 
 Because the evaluation dataset is a subset of the [DeepMine dataset](http://data.deepmine.ir/en/), in addition to creating the CodaLab account, teams need to fill and sign the dataset's [License Agreement](/assets/SdSV_Challenge_License_Agreement.pdf). After signing the agreement, the scanned version of the signed agreement should send back to the challenge organizations by the challenge email: [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com). We will contact you when receiving the agreement. The dataset download links will send to the team's corresponding user.
 
