@@ -1,0 +1,23 @@
+01	S E D AA Y E | M A N | N E SH AA N D A H A N D E Y E | H O V I Y Y A T E | M A N | AH A S T
+02	S E D AA Y E | H A R | K A S | M O N H A S E R | B E | F A R D | AH A S T
+03	H O V I Y Y A T E | M A N | R AA | B AA | S E D AA Y E | M A N | T A AH Y I D | K O N
+04	S E D AA Y E | M A N | R A M Z E | AH O B U R E | M A N | AH A S T
+05	B A N I AH AA D A M | AH A AH Z AA Y E | Y E K D I G A R A N D
+06	M AY | V OY S | IH Z | M AY | P AE S W ER D
+07	OW K EY | G UW G AH L
+08	AA R T AH F IH SH AH L | IH N T EH L AH JH AH N S | IH Z | F AO R | R IY L
+09	AE K SH AH N Z | S P IY K | L AW D ER | DH AE N | W ER D Z
+10	DH EH R | IH Z | N OW | S AH CH | TH IH NG | AE Z | EY | F R IY | L AH N CH
+
+Note 1: The character "|" is used as a word-separator.
+
+Note 2: There are 6 vowels in Persian and the following map can be used roughly to map them with English vowels. You can also find another mapping for doing this. Also, you can do a speech analysis to map them.
+Three short vowels:
+1: A like "AE" in "rat - R AE T"
+2: E like "EH" in "red - R EH D"
+3: O like "AO" in "short - SH AO R T" but it is pronounced shorter than in English.
+Three long vowels:
+1: AA like "AA" in "God - G AA D"
+2: I like "IY" in "seed - S IY D"
+3: U something like "UW" in "too - T UW"
+
