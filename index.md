@@ -106,7 +106,7 @@ There will be three cash prizes for each task. The winners will be selected base
 	<a href="http://deepmine.ir/">Sharif DeepMine Ltd.</a> 
     </td>
     <td>
-	<a href="http://deepmine.ir/"><img align="right" width="210" src="/images/deepmine.jpg"></a>
+	<a href="http://deepmine.ir/"><img align="right" width="120" src="/images/deepmine.jpg"></a>
     </td>
  </tr>
  <tr>
@@ -114,7 +114,7 @@ There will be three cash prizes for each task. The winners will be selected base
     <a href="https://www.crim.ca/en">Computer Research Institute of Montreal (CRIM)</a>
     </td>
     <td>
-    <a href="https://www.crim.ca/en"><img align="right" width="210" src="/images/logo_CRIM_300dpi.jpg"></a>
+    <a href="https://www.crim.ca/en"><img align="right" width="220" src="/images/logo_CRIM_300dpi.jpg"></a>
     </td>
  </tr>
  <tr>
@@ -122,7 +122,7 @@ There will be three cash prizes for each task. The winners will be selected base
     <a href="https://www.phonexia.com">Phonexia Ltd.</a>
     </td>
     <td>
-    <a href="https://www.phonexia.com"><img align="right" width="210" src="/images/phonexia.png"></a>
+    <a href="https://www.phonexia.com"><img align="right" width="220" src="/images/phonexia2.png"></a>
     </td>
  </tr>
 </table>
