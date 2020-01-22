@@ -100,9 +100,34 @@ There will be three cash prizes for each task. The winners will be selected base
 
 ---
 ### Sponsors
-- [Sharif DeepMine Ltd.](http://deepmine.ir/)
-- [Computer Research Institute of Montreal (CRIM)](https://www.crim.ca/en)
-- [Phonexia Ltd.](https://www.phonexia.com)
+<table border="0">
+ <tr>
+    <td>
+    [Sharif DeepMine Ltd.](http://deepmine.ir/)
+    </td>
+    <td>
+    <img align="right" width="210" src="/images/deepmine.jpg">
+    </td>
+ </tr>
+ <tr>
+    <td>
+    [Computer Research Institute of Montreal (CRIM)](https://www.crim.ca/en)
+    </td>
+    <td>
+    <img align="right" width="210" src="/images/logo_CRIM_300dpi.jpg">
+    </td>
+ </tr>
+ <tr>
+    <td>
+    [Phonexia Ltd.](https://www.phonexia.com)
+    </td>
+    <td>
+    <img align="right" width="210" src="/images/phonexia.png">
+    </td>
+ </tr>
+</table>
+
+
 
 
 
