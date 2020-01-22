@@ -106,7 +106,7 @@ There will be three cash prizes for each task. The winners will be selected base
     [Sharif DeepMine Ltd.](http://deepmine.ir/)
     </td>
     <td>
-    <img align="right" width="210" src="/images/deepmine.jpg">
+    <img align="right" width="120" src="/images/deepmine.jpg">
     </td>
  </tr>
  <tr>
