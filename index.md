@@ -113,7 +113,7 @@ There will be three cash prizes for each task. The winners will be selected base
     <td>
     <a href="https://www.crim.ca/en">Computer Research Institute of Montreal (CRIM)</a>
     </td>
-    <td>
+    <td style="padding-bottom: 15px; padding-top: 15px;">
     <a href="https://www.crim.ca/en"><img align="right" width="220" src="/images/logo_CRIM_300dpi.jpg"></a>
     </td>
  </tr>
