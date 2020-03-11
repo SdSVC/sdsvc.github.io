@@ -20,10 +20,10 @@ The evaluation dataset used for the challenge is drawn from the recently release
 
 The Kaldi baseline recipe for both tasks can be found in [this link](/assets/sdsvc2020_kaldi_xvector_baseline.tar.gz). For running the baseline you should first download both VoxCeleb1 and VoxCeleb2 datasets. Then after downloading the challenge data, by putting the baseline code in the Kaldi egs directory you can run this code.
 
-The full challenge evaluation plane version 1.0 can be found in [this link](/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com).
+The full challenge evaluation plane version 1.1 can be found in [this link](/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com).
 
 ---
-### Schedule
+### Schedule[modified]
 <table border="0">
  <tr>
     <td>
@@ -51,7 +51,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    March 13, 2020 
+    April 17, 2020 
     </td>
     <td>
     Challenge deadline
@@ -59,7 +59,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    March 20, 2020 
+    April 27, 2020 
     </td>
     <td>
     Release of results
@@ -67,7 +67,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    September 14, 2020
+    October 25, 2020
     </td>
     <td>
     Post-challenge evaluation
@@ -75,7 +75,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    March 30, 2020 
+    May 8, 2020 
     </td>
     <td>
     Interspeech submission deadline
@@ -83,7 +83,7 @@ The full challenge evaluation plane version 1.0 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    September 14-18, 2020
+    October 25-29, 2020
     </td>
     <td>
     SdSV Challenge 2020 special session at Interspeech
