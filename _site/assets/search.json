@@ -37,6 +37,13 @@
   },
   
   {
+    "title": "System Descriptions",
+    "excerpt": "A short description of the SdSV Challenge 2020\n",
+    "content": "System Descriptions\n\n\nFor the challenge, we had 67 registeded teams which some of them failed to prepare any valid system for the challenge. Also some of the temas only participated in the challenge and did not provide any system descriptions which was not inline with the challenge rules.\n\nIn the following you can find all submitted descriptions. Providing the description in a blind format was decided by teams, so some of the following descriptions do not have any author and affiliation information. The descriptions are ordered based on the anonymous team-ids.\n\n\n  Team01, The SNU-HIL System Description for the SdSV Challenge 2020\n  Team03, GMM-HMM System for Text-dependent Speaker Verification\n  Team04, Text-independent Speaker Verification System by Short-Term Voice Phrases for SdSV Challenge\n  Team05, System description of Team05 for SdSV Challenge 2020\n  Team06, SdSV Challenge Technical Report: the GREAT system\n  Team08, I2R’s System Description to Short-duration Speaker Verification (SdSV) Challenge 2020 Text-dependent: Task1\n  Team08, Team08’s System Description for SdSV Challenge 2020 (Text-independent: Task2)\n\n\n",
+    "url": "/mydescriptions/"
+  },
+  
+  {
     "title": "Organizers",
     "excerpt": "A short description of the SdSV Challenge 2020\n",
     "content": "Main Organizers\n\n\nHossein Zeinali\n\n \n    \n    Amirkabir University of Technology, Iran. \n    Assistant Professor \n    \n    \n    \n    \n \n\n\nKong Aik Lee\n\n \n    \n    NEC Corporation, Japan. \n    Senior Principal Researcher \n    \n    \n    \n    \n \n\n\nJahangir Alam\n\n \n    \n    CRIM, Canada. \n    Researcher \n    \n    \n    \n    \n \n\n\nLukáš Burget\n\n \n    \n    Brno University of Technology, Czech Republic. \n    Associate Professor \n    \n    \n    \n    \n \n\n",
