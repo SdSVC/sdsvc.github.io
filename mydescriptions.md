@@ -10,9 +10,9 @@ aside: True
 
 ### System Descriptions
 ---
-For the challenge, we had 67 registeded teams which some of them failed to prepare any valid system for the challenge. Also some of the temas only participated in the challenge and did not provide any system descriptions which was not inline with the challenge rules. 
+For the challenge, we had 67 registered teams which some of them failed to prepare any valid system for the challenge. Also, some of the teams only participated in the challenge and did not provide any system descriptions which was not in-line with the challenge rules. 
 
-In the following you can find all submitted descriptions. Providing the description in a blind format was decided by teams, so some of the following descriptions do not have any author and affiliation information. The descriptions are ordered based on the anonymous team-ids.
+In the following, you can find all submitted descriptions. Providing the description in a blind format was decided by teams, so some of the following descriptions do not have any author and affiliation information. The descriptions are ordered based on the anonymous team-ids.
 
 1. Team01, [*The SNU-HIL System Description for the SdSV Challenge 2020*](/descriptions/Team01_Both.pdf)
 2. Team03, [*GMM-HMM System for Text-dependent Speaker Verification*](/descriptions/Team03_Task2.pdf)
