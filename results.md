@@ -10,15 +10,65 @@ aside: True
 
 ### Results of Task1: Text-dependent Speaker Verification
 ---
-The following figure depicts bar-plot of participants to Task1 of SdSV Challenge 2020. The results of this figure are from submitted primary system to the challenge and is the oficial results of the challenge.
+The following figure depicts the MinDCF bar-plot of participants to Task1 of the SdSV Challenge 2020. The results of this figure are from submitted primary systems to the challenge and are the official results of the challenge.
 
-<img align="center" width="90%" src="/challenge_results/task1/primary_evaluation_scores.jpg">
+<img align="center" width="100%" src="/challenge_results/task1/primary_evaluation_scores.jpg">
 
-Winners:
+# Winners:
 
-1st: NetEase Games AI Lab (See the following note for BUT team achivement)
-2nd: Institute for Infocomm Research, A*STAR
-3rd: CLSP-HLTCoE, Johns Hopkins University
+Based on the results, the winning teams in this task are:
 
-An honorary 1st place is awarded to the Brno University of Technology team, which submitted the best performing primary system for Task-1. Despite of their fair participation in the challenge, this team decided to give up the price as one of the team members was involved in organizing the challenge.
+1. NetEase Games AI Lab, China (See the following note for BUT team first rank achievement)
+2. Institute for Infocomm Research, A*STAR, Singapour
+3. CLSP-HLTCoE, Johns Hopkins University, USA
+
+An honorary 1st place is awarded to the Brno University of Technology (BUT) team, which submitted the best performing primary system for Task-1. Despite their fair participation in the challenge, this team decided to give up the prize as one of the team members was involved in organizing the challenge.
+
+# Primary DET plot
+
+Following figure depicts DET plot of all primary systems.
+
+<img align="center" width="100%" src="/challenge_results/task1/primary_evaluation.jpg">
+
+## Single System Comparison
+
+In the following figure the MinDCF bar-plot of submitted single systems are shown.
+
+<img align="center" width="100%" src="/challenge_results/task1/single_evaluation_scores.jpg">
+
+In similar way in the following figure the DET plots of single systems are dipicted.
+
+<img align="center" width="100%" src="/challenge_results/task1/single_evaluation.jpg">
+
+### Results of Task2: Text-independent Speaker Verification
+---
+The following figure depicts the MinDCF bar-plot of participants to Task2 of the SdSV Challenge 2020. The results of this figure are from submitted primary systems to the challenge and are the official results of the challenge.
+
+<img align="center" width="100%" src="/challenge_results/task2/primary_evaluation_scores.jpg">
+
+# Winners:
+
+Based on the results, the winning teams in this task are:
+
+1. NetEase Games AI Lab, China (See the following note for BUT team first rank achievement)
+2. Institute for Infocomm Research, A*STAR, Singapour
+3. CLSP-HLTCoE, Johns Hopkins University, USA
+
+An honorary 1st place is awarded to the Brno University of Technology (BUT) team, which submitted the best performing primary system for Task-1. Despite their fair participation in the challenge, this team decided to give up the prize as one of the team members was involved in organizing the challenge.
+
+# Primary DET plot
+
+Following figure depicts DET plot of all primary systems.
+
+<img align="center" width="100%" src="/challenge_results/task2/primary_evaluation.jpg">
+
+## Single System Comparison
+
+In the following figure the MinDCF bar-plot of submitted single systems are shown.
+
+<img align="center" width="100%" src="/challenge_results/task2/single_evaluation_scores.jpg">
+
+In similar way in the following figure the DET plots of single systems are dipicted.
+
+<img align="center" width="100%" src="/challenge_results/task2/single_evaluation.jpg">
 
