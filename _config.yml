@@ -119,6 +119,8 @@ navigation_header:
 #  url: /blog/
 - title: Registration
   url: /registration/
+- title: Results
+  url: /results/
 - title: Descriptions
   url: /mydescriptions/
 - title: Workshop
