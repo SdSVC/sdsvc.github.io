@@ -19,8 +19,8 @@ The following figure depicts the MinDCF bar-plot of participants to Task1 of the
 Based on the results, the winning teams in this task are:
 
 1. NetEase Games AI Lab, China (See the following note for BUT team first rank achievement)
-2. Institute for Infocomm Research, A*STAR, Singapour
-3. CLSP-HLTCoE, Johns Hopkins University, USA
+2. Institute for Infocomm Research, A*STAR, Singapore
+3. CLSP-HLTCoE, Johns Hopkins University, A
 
 An honorary 1st place is awarded to the Brno University of Technology (BUT) team, which submitted the best performing primary system for Task-1. Despite their fair participation in the challenge, this team decided to give up the prize as one of the team members was involved in organizing the challenge.
 
