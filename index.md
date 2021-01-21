@@ -1,33 +1,40 @@
 ---
 title: Challenge Description
 feature_text: |
-  ## Short-duration Speaker Verification (SdSV) Challenge 2020
+  ## Short-duration Speaker Verification (SdSV) Challenge 2021
   Evaluate New Technologies in Short Duration Senarios
 feature_image: "https://picsum.photos/1300/400?image=866"
-excerpt: "A Short Description of SdSV Challenge 2020"
+excerpt: "A Short Description of SdSV Challenge 2021"
 aside: True
 ---
 
-## Welcome to SdSV Challenge 2020! 
+## Welcome to SdSV Challenge 2021! 
 
-The main goal of the SdSV Challenge 2020 is to evaluate new technologies for text-dependent (TD) and text-independent (TI) speaker verification (SV) in short duration scenario.
+Following the success of the SdSV Challenge 2020, the SdSV Challenge 2021 focuses on systematic benchmark and analysis on varying degrees of phonetic variability on short-duration speaker recognition.
 
-The challenge evaluates SdSV with varying degree of phonetic overlap between the enrollment and test utterances. It is the first challenge with a broad focus on systematic benchmark and analysis on varying degree of phonetic variability on short-duration speaker recognition.
+The SdSV Challenge 2021 consists of two tasks: 
 
-The evaluation dataset used for the challenge is drawn from the recently released multi-purpose DeepMine dataset[1]. The dataset has three parts and among them Part 1 is used for TD-SV while Part 3 is for TI-SV.
+- Task 1 is defined as speaker verification in a text-dependent mode where the lexical content (in both English and Persian) of the test utterances is also taken into consideration.
+- Task 2 is defined as speaker verification in a text-independent mode with same- and cross-language trials.
 
-[1] H. Zeinali, L. Burget, J. Cernocky, A multi purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
+The evaluation dataset of the challenge is drawn from the recently released multi-purpose DeepMine dataset[1]. The dataset has three parts and among them, Part 1 is used for TD-SV while Part 3 is for TI-SV.
+
+[1] H. Zeinali, L. Burget, J. Cernocky, A multi-purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
 
 The Kaldi baseline recipe for both tasks can be found in [this link](/assets/sdsvc2020_kaldi_xvector_baseline.tar.gz). For running the baseline you should first download both VoxCeleb1 and VoxCeleb2 datasets. Then after downloading the challenge data, by putting the baseline code in the Kaldi egs directory you can run this code.
 
-The full challenge evaluation plane version 1.1 can be found in [this link](/assets/SdSV_Challenge_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsvc2020\[at\]gmail.com](mailto:sdsvc2020\[at\]gmail.com).
+The full challenge evaluation plane version 1.0 can be found in [this link](/assets/SdSV_Challenge_2021_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsv.challenge\[at\]gmail.com](mailto:sdsv.challenge\[at\]gmail.com).
+
+---
+### Objective
+The main purpose of this challenge is to encourage participants on building single but competitive systems, to perform analysis as well as to explore new ideas, such as multi-task learning, unsupervised/self-supervised learning, single-shot learning, disentangled representation learning, and so on, for short-duration speaker verification. The participating teams will get access to a train set and the test set drawn from the DeepMine corpus which is the largest public corpus designed for short-duration speaker verification with voice recordings of 1800 speakers. The challenge leaderboard is hosted at CodaLab.
 
 ---
 ### Schedule[modified]
 <table border="0">
  <tr>
     <td>
-    January 10, 2020
+    Jan 10, 2021
     </td>
     <td>
     Release of evaluation plan
@@ -35,7 +42,7 @@ The full challenge evaluation plane version 1.1 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    January 15, 2020
+    Jan 15, 2021
     </td>
     <td>
     Evaluation platform open
@@ -43,7 +50,7 @@ The full challenge evaluation plane version 1.1 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    January 10, 2020
+    Jan 15, 2021
     </td>
     <td>
     Release of train, development and evaluation sets
@@ -51,7 +58,7 @@ The full challenge evaluation plane version 1.1 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    April 17, 2020 
+    Mar 20, 2021 
     </td>
     <td>
     Challenge deadline
@@ -59,23 +66,7 @@ The full challenge evaluation plane version 1.1 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    April 27, 2020 
-    </td>
-    <td>
-    Release of results
-    </td>
- </tr>
- <tr>
-    <td>
-    October 25, 2020
-    </td>
-    <td>
-    Post-challenge evaluation
-    </td>
- </tr>
- <tr>
-    <td>
-    May 8, 2020 
+    Mar 29, 2021 
     </td>
     <td>
     Interspeech submission deadline
@@ -83,22 +74,15 @@ The full challenge evaluation plane version 1.1 can be found in [this link](/ass
  </tr>
  <tr>
     <td>
-    October 25-29, 2020
+    Aug 20 - Sep 03, 2021
     </td>
     <td>
-    SdSV Challenge 2020 special session at Interspeech
+    SdSV Challenge 2021 special session at Interspeech
     </td>
  </tr>
  <tr><td> &nbsp; </td></tr>
 </table>
 
-
----
-### Prizes
-There will be three cash prizes for each task. The winners will be selected based on the results of the primary systems on the evaluation subset. In addition to the cash prize, each winner will receive a certificate for their achievement. The cash prizes are as follow:
-- Rank 1: 500 EUR
-- Rank 2: 300 EUR
-- Rank 3: 100 EUR
 
 ---
 ### Sponsors
@@ -109,22 +93,6 @@ There will be three cash prizes for each task. The winners will be selected base
     </td>
     <td>
 	<a href="http://deepmine.ir/"><img align="right" width="120" src="/images/deepmine.jpg"></a>
-    </td>
- </tr>
- <tr>
-    <td>
-    <a href="https://www.crim.ca/en">Computer Research Institute of Montreal (CRIM)</a>
-    </td>
-    <td style="padding-bottom: 15px; padding-top: 15px;">
-    <a href="https://www.crim.ca/en"><img align="right" width="220" src="/images/logo_CRIM_300dpi.jpg"></a>
-    </td>
- </tr>
- <tr>
-    <td>
-    <a href="https://www.phonexia.com">Phonexia Ltd.</a>
-    </td>
-    <td>
-    <a href="https://www.phonexia.com"><img align="right" width="220" src="/images/phonexia2.png"></a>
     </td>
  </tr>
 </table>

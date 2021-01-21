@@ -2,9 +2,9 @@
 title: Organizers
 feature_text: |
   ## Organizers and Contact Information
-  SdSV Challenge 2020
+  SdSV Challenge 2021
 feature_image: "https://picsum.photos/1300/400?image=866"
-excerpt: "A short description of the SdSV Challenge 2020 "
+excerpt: "A short description of the SdSV Challenge 2021 "
 aside: True
 ---
 ### Main Organizers
@@ -26,11 +26,11 @@ aside: True
 <table border="0">
  <tr>
     <td>
-    NEC Corporation, Japan. <br>
+    I2R, A*STAR, Singapore. <br>
     Senior Principal Researcher <br><br>
     </td>
     <td>
-    <img align="right" width="140" src="/images/nec_logo.png">
+    <img align="right" width="140" src="/images/i2r_logo.png">
     </td>
  </tr>
 </table>
