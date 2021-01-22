@@ -12,25 +12,34 @@ aside: True
 
 Following the success of the SdSV Challenge 2020, the SdSV Challenge 2021 focuses on systematic benchmark and analysis on varying degrees of phonetic variability on short-duration speaker recognition.
 
-The SdSV Challenge 2021 consists of two tasks: 
+##### Challenge Tasks
+
+The SdSV Challenge 2021 consists of two tasks:
 
 - Task 1 is defined as speaker verification in a text-dependent mode where the lexical content (in both English and Persian) of the test utterances is also taken into consideration.
 - Task 2 is defined as speaker verification in a text-independent mode with same- and cross-language trials.
+
+##### Challenge Dataset
 
 The evaluation dataset of the challenge is drawn from the recently released multi-purpose DeepMine dataset[1]. The dataset has three parts and among them, Part 1 is used for TD-SV while Part 3 is for TI-SV.
 
 [1] H. Zeinali, L. Burget, J. Cernocky, A multi-purpose and large scale speech corpus in Persian and English for speaker and speech recognition:  the DeepMine database, in:  Proc. ASRU 2019 The 2019 IEEE Automatic Speech Recognition and Understanding Workshop, 2019 (2019).
 
+##### Challenge x-vector Baseline
+
 The Kaldi baseline recipe for both tasks can be found in [this link](/assets/sdsvc2020_kaldi_xvector_baseline.tar.gz). For running the baseline you should first download both VoxCeleb1 and VoxCeleb2 datasets. Then after downloading the challenge data, by putting the baseline code in the Kaldi egs directory you can run this code.
+
+##### Challenge Evaluation Plane
 
 The full challenge evaluation plane version 1.0 can be found in [this link](/assets/SdSV_Challenge_2021_Evaluation_Plan.pdf). If you have any more questions regarding the challenge you can contact organizers via [sdsv.challenge\[at\]gmail.com](mailto:sdsv.challenge\[at\]gmail.com).
 
----
-### Objective
+##### Objective
+
 The main purpose of this challenge is to encourage participants on building single but competitive systems, to perform analysis as well as to explore new ideas, such as multi-task learning, unsupervised/self-supervised learning, single-shot learning, disentangled representation learning, and so on, for short-duration speaker verification. The participating teams will get access to a train set and the test set drawn from the DeepMine corpus which is the largest public corpus designed for short-duration speaker verification with voice recordings of 1800 speakers. The challenge leaderboard is hosted at CodaLab.
 
 ---
-### Schedule[modified]
+### Schedule
+
 <table border="0">
  <tr>
     <td>
@@ -86,6 +95,7 @@ The main purpose of this challenge is to encourage participants on building sing
 
 ---
 ### Sponsors
+
 <table border="0">
  <tr>
     <td>
