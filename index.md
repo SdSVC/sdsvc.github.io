@@ -75,10 +75,18 @@ The main purpose of this challenge is to encourage participants on building sing
  </tr>
  <tr>
     <td>
-    Mar 29, 2021 
+    Mar 26, 2021 
     </td>
     <td>
     Interspeech submission deadline
+    </td>
+ </tr>
+ <tr>
+    <td>
+    Apr 06, 2021
+    </td>
+    <td>
+    System description deadline
     </td>
  </tr>
  <tr>
